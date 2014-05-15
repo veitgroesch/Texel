@@ -1,0 +1,10 @@
+Texel – Ein Zeugnisverwaltung für Waldorfschulen
+
+Extrahieren Sie zuerst die Dateien in dieser Zi-Datei in einen neuen Ordner.
+
+Lesen Sie zunächst die Hilfe zu Texel. Dort finden Sie alle Informationen zur Installation und zu Benutzung.
+
+Öffnen Sie den Ordner Texel-Hilfe und dort die Datei Texelhilfe.html.
+
+Sollten Sie beim Start von Texel Fehlermeldungen bekommen, fehlt Ihrer WindowsXP-Installation wahrscheinlich die ActiveX-Komponente comdlg32.ocx. Im Ordner comdlg32 finden Sie eine Anleitung zum Installieren. Sollten noch Probleme mit den Datei- oder Schriften dialogen sein, installieren Sie auch den ActiveX-Fix.
+

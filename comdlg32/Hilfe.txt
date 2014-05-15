@@ -1,0 +1,10 @@
+Bei manchen Windows XP-Installationen fehlt die ActiveX-Komponente für Dialoge. 
+Das führt beim Ausführen von Texel zu Fehlermeldungen. 
+
+Kopieren Sie diese Dateien in ein gemeinsames Verzeichnis und führen Sie die Datei, die zu Ihrem Betriebssystem passt aus.
+
+Bei Windows 7 Rechnern führen Sie die Datei aus, indem sie nach einem Klick mit der rechten Maustaste - Als Administrator ausführen - wählen.
+Bei Windows XP reicht ein Dpoppelklick.
+
+
+Sollte c: nicht Ihre Systempartition sein, müssen sie in der bat-Datei die Pfadangaben  anpassen.
