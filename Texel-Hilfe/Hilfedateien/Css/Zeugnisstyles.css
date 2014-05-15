@@ -1,0 +1,24 @@
+.title {color:#00009F; text-align:center; font-family:Times New Roman; font-size:32px}
+.titleklein {color:#00009F; text-align:center; font-family:Times New Roman; font-size:26px}
+.textcenter{color:#00009F; text-align:center; font-family:Times New Roman; font-size:16px}
+.text{color:#00009F; text-align:left; font-family:Times New Roman; font-size:16px}
+.textgcenter{color:#00009F; text-align:center; font-family:Times New Roman; font-size:20px}
+.textg{color:#00009F; text-align:left; font-family:Times New Roman; font-size:20px}
+
+
+
+  a.other:link {color:#A00020;
+  text-decoration:none;
+  font-family:Times New Roman;}
+
+a.other:visited {color:#A00020;
+  text-decoration:none;
+  font-family:Times New Roman;}
+
+a.other:hover {color:#A00020;
+  text-decoration:underline;
+  font-family:Times New Roman;}
+
+a.other:active {color:#A00020;
+  text-decoration:none;
+  font-family:Times New Roman;}

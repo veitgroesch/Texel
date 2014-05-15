@@ -1,0 +1,8 @@
+Lehrer: Knuth Wurzel
+
+2m Peter Musterknabe
+Peter hat im Praktikum zur Computerkunde die Grundlagen eines Betriebssystems und der Basic-Programmierung kennen gelernt. Dabei zeigte er viel Interesse und konnte die besprochenen Programme sehr selbständig erfassen und erweitern.
+
+1w Friederike Mustermann
+Friederike hat im Praktikum zur Computerkunde die Grundlagen eines Betriebssystems und der Basic-Programmierung kennen gelernt. Dabei zeigte sie viel Interesse und konnte die besprochenen Programme selbständig erfassen und erweitern.
+

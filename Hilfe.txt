@@ -1,10 +1,13 @@
 Texel – Ein Zeugnisverwaltung für Waldorfschulen
 
-Extrahieren Sie zuerst die Dateien in dieser Zi-Datei in einen neuen Ordner.
 
 Lesen Sie zunächst die Hilfe zu Texel. Dort finden Sie alle Informationen zur Installation und zu Benutzung.
 
 Öffnen Sie den Ordner Texel-Hilfe und dort die Datei Texelhilfe.html.
 
 Sollten Sie beim Start von Texel Fehlermeldungen bekommen, fehlt Ihrer WindowsXP-Installation wahrscheinlich die ActiveX-Komponente comdlg32.ocx. Im Ordner comdlg32 finden Sie eine Anleitung zum Installieren. Sollten noch Probleme mit den Datei- oder Schriften dialogen sein, installieren Sie auch den ActiveX-Fix.
+
+Zur Vorschau der A3-Zeugnisblätter müssen Sie auf Ihrem Rechner einen Druckertreiber für einen A3-Drucker installiert haben. Den finden Sie im Internet und kann auch installiert werden, wenn Sie den zugehörigen Drucker nicht besitzen oder angeschlossen haben.
+
+Passen Sie die Datei "Texel 12. Klasse 2014.mdb" an Ihre Schule an indem Sie die Layput der Report-Dateien anpassen. Machen Sie dann von der Datei für jede Klasse eine Kopie.  
 
